@@ -1,0 +1,7 @@
+C:\Users\miriam\Desktop\Admonis\project\AdmonisTest\AdmonisTest\bin\Debug\AdmonisTest.exe.config
+C:\Users\miriam\Desktop\Admonis\project\AdmonisTest\AdmonisTest\bin\Debug\AdmonisTest.exe
+C:\Users\miriam\Desktop\Admonis\project\AdmonisTest\AdmonisTest\bin\Debug\AdmonisTest.pdb
+C:\Users\miriam\Desktop\Admonis\project\AdmonisTest\AdmonisTest\obj\Debug\AdmonisTest.csproj.AssemblyReference.cache
+C:\Users\miriam\Desktop\Admonis\project\AdmonisTest\AdmonisTest\obj\Debug\AdmonisTest.csproj.CoreCompileInputs.cache
+C:\Users\miriam\Desktop\Admonis\project\AdmonisTest\AdmonisTest\obj\Debug\AdmonisTest.exe
+C:\Users\miriam\Desktop\Admonis\project\AdmonisTest\AdmonisTest\obj\Debug\AdmonisTest.pdb
